@@ -6,7 +6,7 @@ This project scrapes data from the Financial Times "Top 1000 Fastest Growing Com
 
 https://public.tableau.com/app/profile/johann.drayne/viz/FTEUFastestGrowingCompany
 
-<img width="450" alt="Screenshot 2025-01-24 at 07 30 35" src="https://github.com/user-attachments/assets/16d25fae-54ea-490f-875a-d1914d957efb" />
+<img width="450" alt="mean" src="https://github.com/user-attachments/assets/171c7655-72dd-4ed5-a528-043f19b6b078" />
 
 ## Project Features
 
