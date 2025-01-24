@@ -4,6 +4,7 @@
 
 This project scrapes data from the Financial Times "Top 1000 Fastest Growing Companies in Europe" (https://www.ft.com/ft1000-2024) list for the past 6 years. It cleans, aggregates, and stores the data in a CSV file and generates a Tableau visualization to provide insights into the top-performing countries and sectors over time.
 
+https://public.tableau.com/app/profile/johann.drayne/viz/FTEUFastestGrowingCompany
 
 <img width="450" alt="Screenshot 2025-01-24 at 07 30 35" src="https://github.com/user-attachments/assets/16d25fae-54ea-490f-875a-d1914d957efb" />
 
